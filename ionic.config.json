@@ -1,6 +1,6 @@
 {
   "name": "newproject",
-  "app_id": "",
+  "app_id": "69e3b9ab",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
